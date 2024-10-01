@@ -1,0 +1,2 @@
+## CV Data-driven
+Using the cv-quarto template of [Michael Schramm](https://github.com/mps9506/quarto-cv) and the option to select pubs from Google Scholar [(Dr. Martin Lea Blog)](https://martinlea.com/how-to-export-your-publications-from-google-scholar-for-your-academic-website/), I made an updated CV in pdf-format. 
