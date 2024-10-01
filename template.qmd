@@ -1,0 +1,58 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Dr. Sara E. Acevedo
+address: "Vicuña Mackenna 4860, Santiago, Chile"
+email: seaceved@uc.cl
+fontsize: 11pt
+github: Saryace
+orcid: 0000-0003-3203-2106
+web: saryace.github.io
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.bib
+  other: other_bib.bib
+validate-yaml: false
+csl: https://www.zotero.org/styles/chicago-fullnote-bibliography-16th-edition
+---
+  
+Assistant Professor. Soil scientist, Doctor of Engineering Sciences and Master of Soils and Biogeochemistry. Combining lab experimentation, field trips and programming, I try to disentangle the soil-water-environment relationship in the urban and natural context.  
+  
+# Education
+
+- Pontificia Universidad Católica de Chile, Doctor of Engineering Sciences \hfill 2016-2023
+
+- University of California-Davis, Master of Soils and Biogeochemistry \hfill 2012-2014
+
+- Pontificia Universidad Católica de Chile, Chemist degree \hfill 2003-2009
+
+# Teaching
+
+- Pontificia Universidad Católica de Chile, Statistical methods for natural resources (R classes) \hfill 2024
+
+- Pontificia Universidad Católica de Chile, Environmental Biophysics \hfill 2023- 2024
+
+# Outreach
+
+- RLadies - Chile, R teaching lecturer and event organizer \hfill 2018 - present
+
+- RLadies - Global, Code of Conduct Team \hfill 2024 - present
+
+- R package maintainer and developer, [{infiltrodiscR}](https://github.com/biofisicasuelos/infiltrodiscR) and [{ggsoiltexure}](https://github.com/Saryace/ggsoiltexture)
+
+# Publications (2021 - present)
+
+For a complete list, check [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-3203-2106)
+
+::: {#refs-peer}
+:::
+
+# Conference papers (2021 - present)
+
+For a complete list, check [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-3203-2106)
+
+
+::: {#refs-other}
+:::
